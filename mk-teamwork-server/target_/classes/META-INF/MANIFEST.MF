@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: nouha
+Build-Jdk: 17.0.6
+Implementation-Title: teamwork
+Implementation-Version: teamwork1.0
+Implementation-Vendor-Id: teamwork
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/teamwork
+Created-By: Maven Integration for Eclipse
+
